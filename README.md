@@ -1,3 +1,3 @@
 # justattack.github.io
 Just Attack official website.  
-&copy; Just Attack LLC 2015
+&copy; 2015 Just Attack LLC All Rights Reserved
